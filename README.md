@@ -14,7 +14,7 @@ This folder contains the script used to perform the analyses used in the thesis.
 ### Fitting
 This folder includes scripts that were used to perform DN model fitting on the data from each condition separately using the Snellius supercomputing cluster.
 
-### ROIdrawing
+### Retinotopy
 This folder includes scripts that were used to draw and visualize ROIs based on the Gaussian fits on the data from the two experimental conditions pooled together.
 
 ## Requirements
