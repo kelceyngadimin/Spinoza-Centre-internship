@@ -2,7 +2,7 @@
 
 This repository includes the scripts for data analysis used for my Bioinformatics MSc thesis, written as part of my internship at the Spinoza Centre for Neuroimaging in Amsterdam. This project researched the effect of the NMDA-R antagonist Memantine on responses in 7T-fMRI population receptive fields (pRFs) characteristics in multiple visual areas using the following workflow: 
 
-![Workflow of the project](/.figures/workflow.png)
+![Workflow of the project](./figures/workflow.png)
 
 ## Repository structure
 
